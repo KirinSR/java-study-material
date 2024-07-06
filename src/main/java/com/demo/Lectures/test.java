@@ -52,19 +52,3 @@ public class test {
     }
 }
 
-
-/*
-
-attendance Table
-empId
-empDept
-empDate
-isPresent
-
-
-Find employees who are absent for more than 3 days
-
-
-
- */
-
